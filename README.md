@@ -59,18 +59,19 @@
 + [Стилване на input type=file] (http://designtohtml.net/2012/08/%D1%81%D1%82%D0%B8%D0%BB%D0%B2%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0-input-typefile/)
 + [IE9 background shifting bug] (http://www.optimiced.com/bg/2011/03/17/ie9-background-shifting-bug/)
 + [Уеб Формите в WebKit - базирани браузъри (Safari, Chrome)] (http://pivanov.com/blog/2010/01/test-3/)
-+ [ Вграждане на шрифтове в уеб страници] (http://nikolay.bg/2009/embedding-fonts-in-cyrillic-web-page/)
-+ Sass
-  + [CSS препроцесори. Инсталиране на Sass] (http://www.youdevelop.net/coding/sass/css-preprocessors-instalirane-na-sass/)
-  + [Sass: Компилиране на файлове] (http://www.youdevelop.net/coding/sass/kompilirane-na-failove/)
-  + [Sass: Работа с променливи] (http://www.youdevelop.net/coding/sass/rabota-s-promenlivi/)
-  + [Няколко интересни видеа за SASS >> това има общо с CSS :))] (http://m.ignev.net/blog/web-design/xhtml-css/04_05/writing-css-with-sass/)
++ [Вграждане на шрифтове в уеб страници] (http://nikolay.bg/2009/embedding-fonts-in-cyrillic-web-page/)
+
+#### Sass
++ [CSS препроцесори. Инсталиране на Sass] (http://www.youdevelop.net/coding/sass/css-preprocessors-instalirane-na-sass/)
++ [Sass: Компилиране на файлове] (http://www.youdevelop.net/coding/sass/kompilirane-na-failove/)
++ [Sass: Работа с променливи] (http://www.youdevelop.net/coding/sass/rabota-s-promenlivi/)
++ [Няколко интересни видеа за SASS >> това има общо с CSS :))] (http://m.ignev.net/blog/web-design/xhtml-css/04_05/writing-css-with-sass/)
 
 #### JavaScript
 + [Self-initialising Module Pattern] (http://greatgonzo.net/pages/2220.html)
 + [Анатомия на едно мобилно уеб приложение, част първа: къде съм аз?] (http://greatgonzo.net/pages/2151.html)
 
-#### jQuer
+#### jQuery
 + [Въведение в jQuery] (http://www.youdevelop.net/coding/jquery/vyvedenie-v-jquery/)
 + [Добавяне на jQuery чрез Google Hosted Libraries] (http://www.youdevelop.net/coding/jquery/dobavqne-na-jquery-chrez-google-hosted-libraries/)
 + [Какво е jQuery и за какво се използва?] (http://blog.superhosting.bg/jquery.html)
