@@ -40,7 +40,7 @@
 + [CSS за начинаещи] (http://www.youdevelop.net/coding/css/css-za-nachinaeshti/)
 + [Прилагане на CSS чрез елемента style] (http://www.youdevelop.net/coding/css/prilagane-na-css-chrez-elementa-style/)
 + [Прилагане на CSS чрез външен файл] (http://www.youdevelop.net/coding/css/prilagane-na-css-chrez-vynshen-fail/)
-+ [Усвояване на CSS background (част 1)] (http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-1/) |  (http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-2/)
++ [Усвояване на CSS background (част 1)] (http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-1/) | [(част 2)] (http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-2/)
 + [Стилизиране на текст чрез CSS] (http://www.youdevelop.net/coding/css/stilizirane-na-text-chrez-css/)
 + [Стилизиране на линкове] (http://www.youdevelop.net/coding/css/stilizirane-na-linkove/)
 + [Всичко за CSS свойството font (част 1)] (http://www.youdevelop.net/coding/css/vsichko-za-css-svoistvoto-font-part-1/) | [(част 2)] (http://www.youdevelop.net/coding/css/vsichko-za-css-svoistvoto-font-part-2/)
@@ -63,7 +63,7 @@
 + Sass
   + [CSS препроцесори. Инсталиране на Sass] (http://www.youdevelop.net/coding/sass/css-preprocessors-instalirane-na-sass/)
   + [Sass: Компилиране на файлове] (http://www.youdevelop.net/coding/sass/kompilirane-na-failove/)
-  + [Sass: Работа с променливи] [http://www.youdevelop.net/coding/sass/rabota-s-promenlivi/]
+  + [Sass: Работа с променливи] (http://www.youdevelop.net/coding/sass/rabota-s-promenlivi/)
   + [Няколко интересни видеа за SASS >> това има общо с CSS :))] (http://m.ignev.net/blog/web-design/xhtml-css/04_05/writing-css-with-sass/)
 
 #### JavaScript
