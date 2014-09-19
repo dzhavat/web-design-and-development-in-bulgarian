@@ -49,6 +49,7 @@
 + [Adjacent sibling селектор] (http://www.youdevelop.net/coding/css/adjacent-sibling-selector/)
 + [Child селектор] (http://www.youdevelop.net/coding/css/child-selector/)
 + [RGBa цветове] (http://www.youdevelop.net/coding/css3/rgba-cvetove/)
++ [Светият Граал на CSS центрирането] (http://webdesign.tutsplus.com/bg/tutorials/the-holy-grail-of-css-centering--cms-22114)
 + [Заоблени ъгли чрез border-radius] (http://www.youdevelop.net/coding/css3/zaobleni-ygli-chrez-border-radius/)
 + [Заоблени ъгли в Internet Explorer 6-8] (http://www.youdevelop.net/coding/css3/zaobleni-ygli-v-internet-explorer-6-8/)
 + [Усвои text-shadow до съвършенство] (http://www.youdevelop.net/coding/css3/usvoi-text-shadow-do-syvyrshenstvo/)
