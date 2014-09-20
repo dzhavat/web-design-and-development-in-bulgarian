@@ -90,7 +90,7 @@
 + [Responsive web design – защо критиците му просто не схващат идеята] (http://greatgonzo.net/pages/2172.html)
 
 #### PHP
-+ [PHP Rest Framework] (http://blog.ygeorgiev.com/php-rest-framework/)
++ [PHP Rest Framework] (http://blog.ygeorgiev.com/php-rest-framework/) (видео)
 + [Къде да валидираме в MVC модела?] (http://gatakka.eu/?p=979)
 + [Качване на файлове с cURL към Lighttpd] (http://greatgonzo.net/pages/2196.html)
 + [Компресиране на CSS с PHP] (http://pivanov.com/blog/2010/02/compress-css-with-php/)
