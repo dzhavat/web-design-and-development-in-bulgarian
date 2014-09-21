@@ -48,6 +48,7 @@
 + [Кодиране на 2-колонен уеб сайт с фиксирани размери] (http://www.youdevelop.net/coding/css/coding-2-column-layout/)
 + [Adjacent sibling селектор] (http://www.youdevelop.net/coding/css/adjacent-sibling-selector/)
 + [Child селектор] (http://www.youdevelop.net/coding/css/child-selector/)
++ [CSS Псевдо Селектори] (http://magadanski.com/uroci/css-psevdo-selektori/)
 + [RGBa цветове] (http://www.youdevelop.net/coding/css3/rgba-cvetove/)
 + [Светият Граал на CSS центрирането] (http://webdesign.tutsplus.com/bg/tutorials/the-holy-grail-of-css-centering--cms-22114)
 + [Заоблени ъгли чрез border-radius] (http://www.youdevelop.net/coding/css3/zaobleni-ygli-chrez-border-radius/)
