@@ -5,9 +5,11 @@
 + [Предизвикателствата на младите дизайнери] (http://isavkov.net/young-designers/) 
 + [Как да създаваме дизайн по-бързо?] (http://isavkov.net/how-to-speed-up-design-workflow/)
 + [Дизайн на съдържанието] (http://isavkov.net/design-and-content/)
++ [Защо е важно да имате адаптивен уебсайт?] (http://www.webideas.bg/blog/article/%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%D1%82%D0%BE-%D0%BD%D0%B0-%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%82%D0%B5-%D1%81%D0%B0%D0%B9%D1%82%D0%BE%D0%B2%D0%B5-%D0%B7%D0%B0-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82)
 + [Визуално съдържание в уеб] (https://www.youtube.com/watch?v=BUcvl444PjU) (видео)
 + [Шрифт и оформление на текста в уеб] (https://www.youtube.com/watch?v=1uxVCtySLT8) (видео)
 + [Структура и композиция в уеб] (https://www.youtube.com/watch?v=wYMrbc6xArw) (видео)
++ [Какво да правим, преди да правим дизайн за уеб?] (https://www.youtube.com/watch?v=s9JhGY1cBcE) (видео)
 + [Организирайте .psd файловете като про] (http://www.angeloff.net/2012/10/%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D0%B8%D0%B7%D0%B8%D1%80%D0%B0%D0%B9%D1%82%D0%B5-psd-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B5%D1%82%D0%B5-%D1%81%D0%B8-%D0%BA%D0%B0%D1%82%D0%BE-%D0%BF%D1%80%D0%BE/)
 + [Лого дизайн] (http://www.ivoivanov.net/logo-design/)
 
