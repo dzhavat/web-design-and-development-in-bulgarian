@@ -76,8 +76,11 @@
 + [Няколко интересни видеа за SASS >> това има общо с CSS :))] (http://m.ignev.net/blog/web-design/xhtml-css/04_05/writing-css-with-sass/)
 
 #### JavaScript
++ [Качествени ресурси за JavaScript разработчици] (http://code.tutsplus.com/bg/articles/resources-for-staying-on-top-of-javascript--cms-21369)
++ [Пресъздаване на Ripple Effect част от Google Design] (http://webdesign.tutsplus.com/bg/tutorials/recreating-the-touch-ripple-effect-as-seen-on-google-design--cms-21655)
 + [Self-initialising Module Pattern] (http://greatgonzo.net/pages/2220.html)
 + [Анатомия на едно мобилно уеб приложение, част първа: къде съм аз?] (http://greatgonzo.net/pages/2151.html)
++ [Модулен подход, при разработката на JavaScript приложенията] (http://code.tutsplus.com/bg/articles/modules-a-future-approach-to-javascript-libraries--cms-21800)
 
 #### jQuery
 + [Въведение в jQuery] (http://www.youdevelop.net/coding/jquery/vyvedenie-v-jquery/)
@@ -93,6 +96,7 @@
 + [jQuery – отваряне на външните връзки в нов прозорец] (http://webangel78.com/blog/%D1%83%D0%B5%D0%B1-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5/javascript/jquery-external-links-new-windows/)
 
 #### Адаптивен дизайн (Responsive design)
++ [Създаване на (Off-Canvas) навигация с помощта на Bootstrap] (http://webdesign.tutsplus.com/bg/tutorials/how-to-build-an-off-canvas-navigation-layout-with-bootstrap--cms-21991)
 + [Адаптивен уеб дизайн за мобилни устройства] (http://www.angeloff.net/2011/06/%D0%B0%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D0%B2%D0%B5%D0%BD-%D1%83%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%B7%D0%B0-%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%BD%D0%B8-%D1%83%D1%81%D1%82%D1%80%D0%BE/)
 + [Responsive web design – защо критиците му просто не схващат идеята] (http://greatgonzo.net/pages/2172.html)
 
