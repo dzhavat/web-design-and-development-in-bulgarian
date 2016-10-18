@@ -53,10 +53,10 @@ title: Уроци/Статии на български за уеб дизайн 
 * [CSS за начинаещи](http://www.youdevelop.net/coding/css/css-za-nachinaeshti/)
 * [Прилагане на CSS чрез елемента style](http://www.youdevelop.net/coding/css/prilagane-na-css-chrez-elementa-style/)
 * [Прилагане на CSS чрез външен файл](http://www.youdevelop.net/coding/css/prilagane-na-css-chrez-vynshen-fail/)
-* [Усвояване на CSS background (част 1)](http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-1/) \\| [(част 2)](http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-2/)
+* [Усвояване на CSS background (част 1)](http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-1/) | [(част 2)](http://www.youdevelop.net/coding/css/usvoqvane-na-css-background-part-2/)
 * [Стилизиране на текст чрез CSS](http://www.youdevelop.net/coding/css/stilizirane-na-text-chrez-css/)
 * [Стилизиране на линкове](http://www.youdevelop.net/coding/css/stilizirane-na-linkove/)
-* [Всичко за CSS свойството font (част 1)](http://www.youdevelop.net/coding/css/vsichko-za-css-svoistvoto-font-part-1/) \\| [(част 2)](http://www.youdevelop.net/coding/css/vsichko-za-css-svoistvoto-font-part-2/)
+* [Всичко за CSS свойството font (част 1)](http://www.youdevelop.net/coding/css/vsichko-za-css-svoistvoto-font-part-1/) | [(част 2)](http://www.youdevelop.net/coding/css/vsichko-za-css-svoistvoto-font-part-2/)
 * [Обграждане на текст около снимка](http://www.youdevelop.net/coding/css/obgrajdane-na-tekst-okolo-snimka/)
 * [Кодиране на 2-колонен уеб сайт с фиксирани размери](http://www.youdevelop.net/coding/css/coding-2-column-layout/)
 * [Adjacent sibling селектор](http://www.youdevelop.net/coding/css/adjacent-sibling-selector/)
@@ -115,7 +115,7 @@ title: Уроци/Статии на български за уеб дизайн 
 * [Първи стъпки с CodeIgniter](http://m.ignev.net/blog/development/php-development/07_27/getting-started-with-codeigniter/)
 
 #### Performance
-* [Сайтът ми зарежда бавно… Защо? (част 1)](http://blog.superhosting.bg/website-resources-part1.html) \| [(част 2)](http://blog.superhosting.bg/website-resources-part2.html)
+* [Сайтът ми зарежда бавно… Защо? (част 1)](http://blog.superhosting.bg/website-resources-part1.html) | [(част 2)](http://blog.superhosting.bg/website-resources-part2.html)
 * [Бърз сайт = бързи SQL заявки! (част 1)](http://blog.superhosting.bg/sql-queries-part1.html)
 * [Процесорно време?! Статистика и оптимизация!](http://blog.superhosting.bg/cpu-statistics-optimization.html)
 * [Отвъд уеб хостинга: Мрежа за доставяне на съдържание (CDN)](http://blog.icn.bg/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D0%BE/%D0%BE%D1%82%D0%B2%D1%8A%D0%B4-%D1%83%D0%B5%D0%B1-%D1%85%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%B0-%D0%BC%D1%80%D0%B5%D0%B6%D0%B0-%D0%B7%D0%B0-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D1%8F%D0%BD%D0%B5/)
