@@ -9,6 +9,7 @@ title: Уроци/Статии на български за уеб дизайн 
 
 ## Уеб дизайн (Web design)
 * [Как да започнем кариера в дизайна](http://isavkov.net/how-to-work-designer/)
+* [Този дизайн добър ли е?](http://socialevo.net/tozi-dizayn-dobar-li-e-447051)
 * [Предизвикателствата на младите дизайнери](http://isavkov.net/young-designers/)
 * [Как да създаваме дизайн по-бързо?](http://isavkov.net/how-to-speed-up-design-workflow/)
 * [Дизайн на съдържанието](http://isavkov.net/design-and-content/)
@@ -78,7 +79,10 @@ title: Уроци/Статии на български за уеб дизайн 
 
 #### JavaScript
 * [Качествени ресурси за JavaScript разработчици](https://code.tutsplus.com/bg/articles/resources-for-staying-on-top-of-javascript--cms-21369)
-* [Пресъздаване на Ripple Effect част от Google Design]https://webdesign.tutsplus.com/bg/tutorials/recreating-the-touch-ripple-effect-as-seen-on-google-design--cms-21655)
+* [Смисълът в темплейтните стрингове в ES6](https://code.tutsplus.com/bg/tutorials/the-genius-of-template-strings-in-es6--cms-24915)
+* [Обхождане на масив с map()](http://youdevelop.net/coding/javascript/obhozhdane-na-masiv-s-map/)
+* [Обхождане на масив с forEach()](http://youdevelop.net/coding/javascript/obhozhdane-na-masiv-s-foreach/)
+* [Пресъздаване на Ripple Effect част от Google Design](https://webdesign.tutsplus.com/bg/tutorials/recreating-the-touch-ripple-effect-as-seen-on-google-design--cms-21655)
 * [Self-initialising Module Pattern](http://greatgonzo.net/pages/2220.html)
 * [Анатомия на едно мобилно уеб приложение, част първа: къде съм аз?](http://greatgonzo.net/pages/2151.html)
 * [Модулен подход, при разработката на JavaScript приложенията](https://code.tutsplus.com/bg/articles/modules-a-future-approach-to-javascript-libraries--cms-21800)
@@ -115,6 +119,8 @@ title: Уроци/Статии на български за уеб дизайн 
 ## Сигурност (Security)
 * [Урок за начинаещи: SSL сертификат – сигурност за вас и вашите клиенти](http://socialevo.net/urok-za-nachinaeshti-ssl-sertifikat-v-sigurnost-za-vas-i-vashite-klienti-446199)
 * [Урок за напреднали: SSL сертификат – как да изберем най-подходящия за нас](http://socialevo.net/urok-za-naprednali-ssl-sertifikat-v-kak-da-izberem-nay-podhodyashtiya-za-nas-446285)
+* [SSL сертификат за по-добро класиране в Google резултатите](http://socialevo.net/ssl-sertifikat-za-po-dobro-klasirane-v-google-rezultatite-446753)
+* [Защита със SSL сертификат = по-успешен онлайн бизнес](https://blog.superhosting.bg/ssl-certificates-google-ranking.html)
 * [Защита със SSL сертификат = по-успешен онлайн бизнес](https://blog.superhosting.bg/ssl-certificates-google-ranking.html)
 * [SSL издатели, гаранции за сигурност, 2048-bit криптиране и още…](http://blog.icn.bg/friendly-geeks-saveti/ssl-izdateli-garantsii-za-sigurnost-2048-bit-kri/)
 * [Как да повишим сигурността на сайта в 10 стъпки!](https://blog.superhosting.bg/website-security-in-10-steps.html)
