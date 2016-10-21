@@ -121,7 +121,6 @@ title: Уроци/Статии на български за уеб дизайн 
 * [Урок за напреднали: SSL сертификат – как да изберем най-подходящия за нас](http://socialevo.net/urok-za-naprednali-ssl-sertifikat-v-kak-da-izberem-nay-podhodyashtiya-za-nas-446285)
 * [SSL сертификат за по-добро класиране в Google резултатите](http://socialevo.net/ssl-sertifikat-za-po-dobro-klasirane-v-google-rezultatite-446753)
 * [Защита със SSL сертификат = по-успешен онлайн бизнес](https://blog.superhosting.bg/ssl-certificates-google-ranking.html)
-* [Защита със SSL сертификат = по-успешен онлайн бизнес](https://blog.superhosting.bg/ssl-certificates-google-ranking.html)
 * [SSL издатели, гаранции за сигурност, 2048-bit криптиране и още…](http://blog.icn.bg/friendly-geeks-saveti/ssl-izdateli-garantsii-za-sigurnost-2048-bit-kri/)
 * [Как да повишим сигурността на сайта в 10 стъпки!](https://blog.superhosting.bg/website-security-in-10-steps.html)
 * [Как да създадем SSH ключове?](http://blog.icn.bg/friendly-geeks-saveti/kak-da-sazdadem-ssh-klyuchove/)
