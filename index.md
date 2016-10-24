@@ -79,6 +79,7 @@ title: Уроци/Статии на български за уеб дизайн 
 
 #### JavaScript
 * [Качествени ресурси за JavaScript разработчици](https://code.tutsplus.com/bg/articles/resources-for-staying-on-top-of-javascript--cms-21369)
+* [JavaScript – нещата, които трябва да знаете](http://pavelkolev.com/javascript-%d0%bd%d0%b5%d1%89%d0%b0%d1%82%d0%b0-%d0%ba%d0%be%d0%b8%d1%82%d0%be-%d1%82%d1%80%d1%8f%d0%b1%d0%b2%d0%b0-%d0%b4%d0%b0-%d0%b7%d0%bd%d0%b0%d0%b5%d1%82%d0%b5/) (видео)
 * [Смисълът в темплейтните стрингове в ES6](https://code.tutsplus.com/bg/tutorials/the-genius-of-template-strings-in-es6--cms-24915)
 * [Обхождане на масив с map()](http://youdevelop.net/coding/javascript/obhozhdane-na-masiv-s-map/)
 * [Обхождане на масив с forEach()](http://youdevelop.net/coding/javascript/obhozhdane-na-masiv-s-foreach/)
