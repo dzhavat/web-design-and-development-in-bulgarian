@@ -5,7 +5,7 @@ title: Уроци/Статии на български за уеб дизайн 
 
 # Уроци/Статии на български за уеб дизайн и разработване
 
-[GitHub хранилище](https://github.com/dzhavatushev/web-design-and-development-in-bulgarian)
+[GitHub хранилище](https://github.com/dzhavat/web-design-and-development-in-bulgarian)
 
 ## Уеб дизайн (Web design)
 * [Как да започнем кариера в дизайна](http://isavkov.net/how-to-work-designer/)
